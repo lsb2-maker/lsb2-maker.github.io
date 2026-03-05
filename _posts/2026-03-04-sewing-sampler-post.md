@@ -1,7 +1,7 @@
 ---
 layout: post
-title: reading the short while by jeremy sorese
-subtitle: sewing sampler
+title: sewing sampler
+subtitle: sewing sampler (the second)
 cover-img: 
 thumbnail-img: /assets/img/sewing-sampler
 share-img: /assets/img/sewing-sampler
