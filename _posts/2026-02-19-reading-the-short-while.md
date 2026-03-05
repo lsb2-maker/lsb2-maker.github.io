@@ -2,9 +2,9 @@
 layout: post
 title: reading the short while by jeremy sorese
 subtitle: guys i weawy love graphic novels
-cover-img: /assets/img/sorese_background.png
-thumbnail-img: /assets/img/the-short-while.png
-share-img: /assets/img/sorese_background.png
+cover-img: /assets/img/soresi_background.jpg
+thumbnail-img: /assets/img/the-short-while.jpg
+share-img: /assets/img/sorese_background.jpg
 tags: [books, test]
 author: meeeeeeeeeee :3
 ---
