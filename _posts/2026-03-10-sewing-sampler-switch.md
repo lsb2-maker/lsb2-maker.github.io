@@ -10,3 +10,5 @@ author: meeeeeeeeeee :3
 ---
 
 our homemade switches! still working on my second one, but finished the first one, and it's even functional this time :-)
+
+!/assets/img/front-of-sampler.jpg
