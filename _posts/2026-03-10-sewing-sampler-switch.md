@@ -11,4 +11,15 @@ author: meeeeeeeeeee :3
 
 our homemade switches! still working on my second one, but finished the first one, and it's even functional this time :-)
 
-!/assets/img/front-of-sampler.jpg
+![image](/assets/img/alligator-prototype.jpg)
+
+here is the setup in alligator clips...
+
+![image](/assets/img/back-of-sampler.jpg)
+
+this is the back of my button...
+
+![image](/assets/img/front-of-sampler.jpg)
+
+and the front of it!
+
